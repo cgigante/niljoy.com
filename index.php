@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="favicon.ico">
 
-    <title>niljoy | music</title>
+    <title>niljoy</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -16,6 +16,7 @@
     <!-- Custom styles for this template -->
     <link href="css/cover.css" rel="stylesheet">
     <link href="css/main.css" rel="stylesheet">
+    <link href="css/animate.css" rel="stylesheet">
 
     <!-- Google fonts -->
     <link href='http://fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
@@ -49,11 +50,11 @@
 
           <div class="masthead clearfix">
             <div class="inner">
-              <h3 class="masthead-brand">niljoy</h3>
+              <h3 class="masthead-brand"><span class="animated fadeIn">nil</span>joy</h3>
               <nav>
                 <ul class="nav masthead-nav">
-                  <li><a href="index.html">home</a></li>
-                  <li class="active"><a href="music.html">music</a></li>
+                  <li class="active"><a href="index.php">home</a></li>
+                  <li><a href="music.php">music</a></li>
                   <li><a href="mailto:info@niljoy.com">contact</a></li>
                 </ul>
               </nav>
@@ -62,25 +63,31 @@
 
           <div class="inner cover">
             <!-- <h1 class="cover-heading">niljoy</h1> -->
-            <p class="lead">music is coming soon</p>
+            <p class="lead">post-punk | synth | industrial | noise</p>
             <p class="lead">
-              <!-- <a href="mailto:info@niljoy.com" class="btn btn-lg btn-default">contact</a> -->
+              <a href="music.php" class="btn btn-lg btn-default">listen</a>
             </p>
           </div>
 
           <div class="mastfoot">
+
             <div class="inner">
               <a href="https://www.soundcloud.com/niljoy" target="_blank">
                 <img src="img/social/soundcloud.png" class="social-icon" />
               </a>
-              <a href="https://www.facebook.com/pages/Niljoy/1589479017972870" target="_blank">
+              <a href="https://www.facebook.com/niljoysound" target="_blank">
                 <img src="img/social/facebook.png" class="social-icon" />
               </a>
+              <a href="https://niljoy.bandcamp.com" target="_blank">
+                <img src="img/social/bandcamp.png" class="social-icon" />
+              </a>              
             </div>
+
             <div class="inner">
               <p><em>Absolute silence leads to sadness. It is the image of death.</em></p>
               <p>Jean-Jacques Rousseau</p>
             </div>
+
           </div>
 
         </div>
