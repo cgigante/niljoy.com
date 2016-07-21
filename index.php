@@ -34,13 +34,15 @@
         try {document.addEventListener("DOMContentLoaded", $buo_f,false)}
         catch(e){window.attachEvent("onload", $buo_f)}
     </script> 
-    
+   
+
+    <!-- Google Analytics code -->
+    <?php include_once("analyticstracking.php") ?>
   </head>
 
   <body>
 
-<!-- Google Analytics code -->
-<?php include_once("analyticstracking.php") ?>
+
 
     <div class="site-wrapper">
 
