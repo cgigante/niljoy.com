@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="favicon.ico">
 
-    <title>niljoy</title>
+    <title>niljoy | post-punk | synth | industrial | noise</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -35,14 +35,11 @@
         catch(e){window.attachEvent("onload", $buo_f)}
     </script> 
    
-
     <!-- Google Analytics code -->
     <?php include_once("analyticstracking.php") ?>
   </head>
 
   <body>
-
-
 
     <div class="site-wrapper">
 
@@ -85,6 +82,7 @@
               </a>              
             </div>
 
+            <!-- Quote at bottom -->
             <div class="inner">
               <p><em>Absolute silence leads to sadness. It is the image of death.</em></p>
               <p>Jean-Jacques Rousseau</p>

@@ -66,10 +66,15 @@
             <!-- <p class="lead">music is coming soon</p> -->
             <div class="row">
               <div class="col-sm-12">
-                <iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=1417791911/size=large/bgcol=333333/linkcol=9a64ff/minimal=true/transparent=true/" seamless><a href="http://niljoy.bandcamp.com/album/minds-sigh-demos">Mind&#39;s Sigh (demos) by Niljoy</a></iframe>
+               <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/249152680&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
               </div>
             </div>
             
+          </div>
+
+          <div>
+            <br>
+            <br>
           </div>
 
           <div class="mastfoot">

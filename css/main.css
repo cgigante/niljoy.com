@@ -23,3 +23,7 @@ div.mastfoot div.inner a img.social-icon {
 .inner {
 	padding: 10px;
 }
+
+a:hover {
+  text-decoration: none;
+}
